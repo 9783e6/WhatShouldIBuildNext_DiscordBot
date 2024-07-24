@@ -1,0 +1,461 @@
+{
+    "format_version": 1,
+    "categories": [
+        "Software (Standalone or Web)"
+    ],
+    "difficulties": [
+        "Easy",
+        "Intermediate",
+        "Advanced"
+    ],
+    "projects": [
+        {
+            "project_id": 1,
+            "project_name": "To-Do List Application",
+            "project_desc": "a simple task management app with features like adding, editing, deleting tasks, and setting deadlines.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 2,
+            "project_name": "Currency Converter",
+            "project_desc": "an application that converts between different currencies using real-time exchange rates fetched from an API.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 3,
+            "project_name": "Weather App",
+            "project_desc": "a desktop application that displays weather information for a user-specified location.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 4,
+            "project_name": "Note-Taking Application",
+            "project_desc": "an app that allows users to create, edit, and organize notes, possibly with support for Markdown.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 5,
+            "project_name": "Simple Text Editor",
+            "project_desc": "a lightweight text editor with basic functionalities like open, save, and find/replace text.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 6,
+            "project_name": "Expense Tracker",
+            "project_desc": "an application to track income and expenses, generate reports, and visualize spending trends.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 7,
+            "project_name": "Personal Diary",
+            "project_desc": "a secure application for users to write daily entries, with features like tagging, searching, and encryption, possibly with support for markdown.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 8,
+            "project_name": "Recipe Manager",
+            "project_desc": "a program to store, organize, and search recipes with the ability to generate shopping lists based on selected recipes.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 9,
+            "project_name": "Media Player",
+            "project_desc": "a basic media player that can play audio and video files, with features like playlists and media library management.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 10,
+            "project_name": "Chat Application",
+            "project_desc": "a desktop chat application using sockets for real-time communication, possibly with user authentication.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 11,
+            "project_name": "Project Management Tool",
+            "project_desc": "a comprehensive tool to manage projects, tasks, timelines, and collaboration among team members.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Advanced"
+        },
+        {
+            "project_id": 12,
+            "project_name": "Inventory Management System",
+            "project_desc": "a system for managing inventory levels, orders, suppliers, and customers, with real-time stock tracking.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Advanced"
+        },
+        {
+            "project_id": 13,
+            "project_name": "File Synchronization Tool",
+            "project_desc": "an application to synchronize files and folders across different devices and platforms.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Advanced"
+        },
+        {
+            "project_id": 14,
+            "project_name": "Video Editing Software",
+            "project_desc": "an application for editing videos with features like trimming, cutting, possibly adding effects, and exporting in various formats.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Advanced"
+        },
+        {
+            "project_id": 15,
+            "project_name": "Language Learning Application",
+            "project_desc": "a program to assist users in learning new languages with features like vocabulary building, quizzes, and progress tracking.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Advanced"
+        },
+        {
+            "project_id": 16,
+            "project_name": "Health and Fitness Tracker",
+            "project_desc": "an application to track workouts, monitor health metrics, and provide fitness recommendations.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Advanced"
+        },
+        {
+            "project_id": 17,
+            "project_name": "Data Visualization Tool",
+            "project_desc": "a tool to create and manipulate various types of data visualizations, such as graphs and charts, based on user-provided datasets.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Advanced"
+        },
+        {
+            "project_id": 18,
+            "project_name": "Timer/Stopwatch Application",
+            "project_desc": "a simple timer and stopwatch app with start, stop, and reset functionalities.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 19,
+            "project_name": "Calculator",
+            "project_desc": "a basic calculator with standard arithmetic operations and possibly more advanced functions like trigonometry.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 20,
+            "project_name": "BMI Calculator",
+            "project_desc": "an application to calculate Body Mass Index (BMI) based on user input for height and weight.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 21,
+            "project_name": "Unit Converter",
+            "project_desc": "a tool for converting between different units of measurement, such as length, weight, and volume.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 22,
+            "project_name": "Flashcard App",
+            "project_desc": "a study aid app for creating and reviewing flashcards for learning new topics, possibly with support for images/video/audio.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 23,
+            "project_name": "Quiz Application",
+            "project_desc": "a customizable quiz app that allows users to create quizzes, take them, and track their scores.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 24,
+            "project_name": "Contact Manager",
+            "project_desc": "a program for managing personal or business contacts with fields for name, phone number, email, address, etc.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 25,
+            "project_name": "E-book Reader",
+            "project_desc": "an application for reading e-books with features like bookmarking, text highlighting, and adjustable fonts.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 26,
+            "project_name": "Automated Backup System",
+            "project_desc": "a tool that automatically backs up user data to a specified location, with options for scheduling and versioning.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 27,
+            "project_name": "Time Tracking Tool",
+            "project_desc": "an application for tracking time spent on different tasks and projects, useful for freelancers and professionals.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 28,
+            "project_name": "Virtual Pet",
+            "project_desc": "an entertaining application where users can take care of a virtual pet, including feeding, playing, and monitoring its health.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 29,
+            "project_name": "Typing Tutor",
+            "project_desc": "a program to help users improve their typing speed and accuracy through various exercises and tests.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 30,
+            "project_name": "Physics Simulator",
+            "project_desc": "an application to simulate physics experiments, such as projectile motion or electric circuits.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Advanced"
+        },
+        {
+            "project_id": 31,
+            "project_name": "Language Translator",
+            "project_desc": "a tool for translating text between different languages using an API like DeepL.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 32,
+            "project_name": "Pomodoro Timer",
+            "project_desc": "a productivity timer following the Pomodoro Technique, with work and break intervals.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 33,
+            "project_name": "Habit Tracker",
+            "project_desc": "an app for tracking daily habits and routines, with reminders and progress charts.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 34,
+            "project_name": "Random Quote Generator",
+            "project_desc": "an application that displays random quotes from a predefined list or fetched from an API.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 35,
+            "project_name": "Music Playlist Manager",
+            "project_desc": "a program to create and manage playlists of music files on the user\u2019s computer.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 36,
+            "project_name": "Birthday Reminder",
+            "project_desc": "an app to keep track of friends' and family members' birthdays, with reminder notifications.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 37,
+            "project_name": "File Organizer",
+            "project_desc": "a tool to automatically organize files into folders based on file type, date, or other criteria.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 38,
+            "project_name": "Markdown Editor",
+            "project_desc": "a text editor with Markdown support, showing live preview and syntax highlighting.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 39,
+            "project_name": "RSS Feed Reader",
+            "project_desc": "a desktop application for subscribing to and reading RSS feeds from various websites.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 40,
+            "project_name": "Time Zone Converter",
+            "project_desc": "a tool to convert time between different time zones, useful for international communication.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 41,
+            "project_name": "Game Development Platform",
+            "project_desc": "a tool for creating 2D (or 3D) games, including an engine, editor, and scripting capabilities.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Advanced"
+        },
+        {
+            "project_id": 42,
+            "project_name": "Digital Clock",
+            "project_desc": "a simple digital clock that displays the current time with customization options for format and time zones.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 43,
+            "project_name": "Image Resizer",
+            "project_desc": "a tool to resize images, supporting batch processing for multiple files at once.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 44,
+            "project_name": "E-Book Library Manager",
+            "project_desc": "an app for cataloging e-books and managing a personal e-book library.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 45,
+            "project_name": "Class Schedule Planner",
+            "project_desc": "a tool to help students create and manage their class schedules, possibly with reminders for upcoming classes.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 46,
+            "project_name": "Music Tag Editor",
+            "project_desc": "an application to edit metadata tags in music files, such as artist, album, and genre.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 47,
+            "project_name": "Workout Routine Planner",
+            "project_desc": "an application to create, track, and modify workout routines, including progress tracking and exercise descriptions.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 48,
+            "project_name": "Photo Organizer",
+            "project_desc": "an app to organize and manage photo collections, with features for tagging, sorting, and searching images.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 49,
+            "project_name": "Digital Scrapbook",
+            "project_desc": "a tool for creating digital scrapbooks, with features for adding images, text, and decorative elements.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 50,
+            "project_name": "Movie Collection Manager",
+            "project_desc": "an application to catalog and manage a collection of movies, including metadata like director, cast, and ratings.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 51,
+            "project_name": "Collaborative Whiteboard",
+            "project_desc": "a real-time collaborative whiteboard application for brainstorming and planning sessions.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Advanced"
+        },
+        {
+            "project_id": 52,
+            "project_name": "Data Encryption Tool",
+            "project_desc": "an application for encrypting and decrypting files and messages.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Advanced"
+        },
+        {
+            "project_id": 53,
+            "project_name": "Advanced Image Editor",
+            "project_desc": "a robust image editing application with features like layers, filters, and advanced adjustment tools.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Advanced"
+        },
+        {
+            "project_id": 54,
+            "project_name": "Digital Dice",
+            "project_desc": "a digital dice roller that can simulate rolling one or more dice.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 55,
+            "project_name": "Simple Notepad",
+            "project_desc": "a basic text editor with features like search.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 56,
+            "project_name": "Random Number Generator",
+            "project_desc": "an application that generates random numbers based on user-defined ranges. (without a library, from scratch)",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 57,
+            "project_name": "Expense Splitter",
+            "project_desc": "a tool to split expenses among a group of people, useful for shared costs during trips or events.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 58,
+            "project_name": "Student Grade Tracker",
+            "project_desc": "a tool for students to track their grades across different subjects and calculate GPA.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 59,
+            "project_name": "Smart Document Scanner",
+            "project_desc": "a tool that scans documents, performs OCR (Optical Character Recognition), and organizes them.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Advanced"
+        },
+        {
+            "project_id": 60,
+            "project_name": "Mood Tracker",
+            "project_desc": "an app for users to log their mood and get visualizations of their mood trends over time.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 61,
+            "project_name": "Plant Care Reminder",
+            "project_desc": "an app to remind users when to water and care for their plants.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Easy"
+        },
+        {
+            "project_id": 62,
+            "project_name": "FTP Program",
+            "project_desc": "a file transfer program which can transfer files back and forth from a remote web sever.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Advanced"
+        },
+        {
+            "project_id": 63,
+            "project_name": "Country from IP Lookup",
+            "project_desc": "enter an IP address and find the country that IP is registered in. ",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        },
+        {
+            "project_id": 64,
+            "project_name": "Whois Search Tool",
+            "project_desc": "enter an IP or host address and have it look it up through whois and return the results to you.",
+            "category": "Software (Standalone or Web)",
+            "difficulty": "Intermediate"
+        }
+    ]
+}
