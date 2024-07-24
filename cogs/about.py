@@ -14,7 +14,7 @@ class About(commands.Cog):
 
         embed = discord.Embed(
             title=f"Info about WhatShouldIBuildNext",
-            description=f"This bot was developed by [9783e6](https://github.com/9783e6)(<@1033575643323052102> on discord).\n\n[My discord server(Support/bug reports/feature requests here)](https://discord.gg/3HQKbwFzpR)\n\n[Project's source code]().\n",
+            description=f"This bot was developed by [9783e6](https://github.com/9783e6)(<@1033575643323052102> on discord).\n\n[My discord server(Support/bug reports/feature requests here)](https://discord.gg/3HQKbwFzpR)\n\n[Project's source code](https://github.com/9783e6/WhatShouldIBuildNext_DiscordBot/tree/main).\n",
             color=0x9783e6,
         )
         embed.set_footer(text=f"This instance of the bot is ran by {config.InstanceRanBy}.")
