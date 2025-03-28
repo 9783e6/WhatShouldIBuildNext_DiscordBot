@@ -1,13 +1,6 @@
 # WhatShouldIBuildNext discord bot
 Simple discord bot which suggests what you can build next
 
-### Adding to your server
-You can add my instance of the bot to your discord server via the link below
-https://discord.com/oauth2/authorize?client_id=1265128137696739480&permissions=2048&integration_type=0&scope=bot
-
-### Wanna get support, give ideas or request a feature?
-Join my [discord server](https://discord.gg/3HQKbwFzpR)!!
-
 ## Running your own instance of the bot
 
 ### Docker (Recommended)
